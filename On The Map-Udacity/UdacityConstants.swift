@@ -6,14 +6,6 @@
 //  Copyright © 2015 Rahul Sarna. All rights reserved.
 //
 
-//
-//  TMDBConstants.swift
-//  TheMovieManager
-//
-//  Created by Jarrod Parkes on 2/11/15.
-//  Copyright (c) 2015 Jarrod Parkes. All rights reserved.
-//
-
 // MARK: - TMDBClient (Constants)
 
 extension UdacityAPIClient {
